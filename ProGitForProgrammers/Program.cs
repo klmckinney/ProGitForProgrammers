@@ -11,8 +11,4 @@ namespace ProGitForProgrammers
             Console.WriteLine("I just added this in the command line repository");
         }
     }
-
-    public class Calculator
-    {
-    }
 }
